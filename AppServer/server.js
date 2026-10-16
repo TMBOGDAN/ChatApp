@@ -10,11 +10,11 @@ const { Pool } = require('pg');
 // ======================
 
 const pool = new Pool({
-    user: '',
-    host: '',
-    database: '',
-    password: '',
-    port: ,
+    user: process.env.PGUSER,
+    host: process.env.PGHOST || 'localhost',
+    database: process.env.PGDATABASE,
+    password: process.env.PGPASSWORD,
+    port: Number(process.env.PGPORT || 5432),
 });
 
 pool.connect()
