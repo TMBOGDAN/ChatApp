@@ -1,5 +1,0 @@
-C:/Sobo/proiecte/NexusChat/ChatApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/ChatApp.dir
-C:/Sobo/proiecte/NexusChat/ChatApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Sobo/proiecte/NexusChat/ChatApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Sobo/proiecte/NexusChat/ChatApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/ChatApp_autogen_timestamp_deps.dir
-C:/Sobo/proiecte/NexusChat/ChatApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/CMakeFiles/ChatApp_autogen.dir
